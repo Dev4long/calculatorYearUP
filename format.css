@@ -1,0 +1,15 @@
+#results {
+         display:none;
+       }
+
+body      {
+          background-color: red;
+		  color: blue;
+		  text-align: center;
+        }
+		
+.card, card-body, text-center, mt-5  {
+          background-color: black;
+		  border: 5px yellow solid;
+        }
+	
